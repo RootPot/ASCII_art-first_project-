@@ -1,0 +1,64 @@
+Please add letters below (requirements!: letters must be 7 lines/rows tall and 5 character wide! ALSO: each row for the letter/character MUST have the letter/character in the each row (all seven) at least once! NO BLANK LINES)
+  A  
+ A A 
+AAAAA
+A   A
+A   A
+A   A
+A   A
+ aaa 
+a   a
+    a
+ aaaa
+a   a
+a  aa
+aaa a
+BBBB 
+B   B
+B   B
+BBBBB
+B   B
+B   B
+BBBB
+b    
+b    
+b bb 
+bb  b
+b   b
+bb  b
+b bb 
+ CCCC
+C    
+C    
+C    
+C    
+C    
+ CCCC
+  ccc
+ c   
+c    
+c    
+c    
+ c   
+  ccc
+DDDD 
+D   D
+D   D
+D   D
+D   D
+D   D
+DDDD 
+    d
+    d
+ dd d
+d  dd
+d   d
+d  dd
+ dd d
+    /
+    /
+   / 
+  /  
+ /   
+/    
+/    
